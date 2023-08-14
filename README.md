@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, linux etc.
 - 🌱 I’m currently learning how to push php development out of the known box.
 - 💞️ I’m looking to collaborate on inovative ideas, especially in php
-- 📫 You can reach me via mail
+- 📫 You can reach me via mail ( info at hexxore dot nl )
 
 <!---
 Wuffz/Wuffz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
